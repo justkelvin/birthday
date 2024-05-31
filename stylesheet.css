@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-color: #CC99FF;
 	
 }
 .peach-after {
@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #CC99FF;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #D6ADFF;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #E0C2FF;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #B870FF;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #CC99FF;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #CC99FF;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #D6ADFF;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #E0C2FF;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #B870FF;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #CC99FF;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #CC99FF;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #D6ADFF;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #E0C2FF;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #B870FF;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #CC99FF;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #CC99FF;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #D6ADFF;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #E0C2FF;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #B870FF;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #CC99FF;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #CC99FF;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #D6ADFF;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #E0C2FF;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #B870FF;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #CC99FF;
 	}
 }
 
@@ -969,7 +969,7 @@ audio {
 }
 
 .bannar {
-	max-width: 100%;
+	max-width: 40%;
 	-webkit-transform:translate(0px,-500px);
 	-moz-transform:translate(0px,-500px);
 	-o-transform:translate(0px,-500px);
@@ -1282,13 +1282,14 @@ audio {
 }
 
 .btn-primary {
-        border-color: #466baf;
-        padding: 10px;
+        border-color: #AD5CFF;
+        padding: 15px;
+		margin: 20px;
         text-transform: uppercase;
         font-family: 'Signika', sans-serif;
         font-weight: 700;
         color: #fff;
-        background-color: #466baf;
+        background-color: #AD5CFF;
 }
     .btn-primary:hover,
     .btn-primary:focus,
@@ -1297,7 +1298,7 @@ audio {
     .open .dropdown-toggle.btn-primary {
         border-color: #fff;
         color: #fff;
-        background-color: #466baf;
+        background-color: #AD5CFF;
     }
 
 
